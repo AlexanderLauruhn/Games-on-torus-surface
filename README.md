@@ -4,7 +4,7 @@ Navigate through the toroidal grid, avoid mines, and uncover safe areas to win t
 The rules are the same as
 the normal minesweeper with a flat surface. There are three levels of difficulty.
 <br>
-<img src= "minesweeper.png" width="250 height="250">
+<img src= "minesweeper.png" width="250" height="250">
 # Minesweeper on Torus Surface
 Welcome to Toroidal Maze Game! This is not your ordinary maze – immerse yourself in a unique challenge as you navigate a maze set on a torus surface. Maneuver through the twists and turns of a toroidal labyrinth, avoid obstacles, and triumphantly reach the blue dots. Use the '+' Button to start a new game with increasing difficulty.
 You can reach every position in the maze by moving the yellow figure by the arrow keys. The maze itself is created by an recursive backtracking algorithm. So there is unreachable position. Enjoy the challenge.
