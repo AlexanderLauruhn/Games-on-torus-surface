@@ -16,7 +16,7 @@ Your opponent is a bot finding every available position for itself. So do not un
 <br>
 <img src= ".\pictures\blokus.png" width="250" height="250">
 # Further on Torus Surface
-In the following three versions of mazes puzzles, you can turn each position of the surface. Move your figure using the arrow keys. 
+In the following three versions of mazes puzzles, you can turn each position of the surface. Move your figure using the arrow keys. <br>
 <img src= ".\pictures\3maze.png" width="250" height="250">
 <img src= ".\pictures\4maze.png" width="250" height="250">
 <img src= ".\pictures\6maze.png" width="250" height="250">
