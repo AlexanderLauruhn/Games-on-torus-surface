@@ -19,7 +19,7 @@ Your opponent is a bot finding every available position for itself. So do not un
 In the following three versions of mazes puzzles, you can turn each position of the surface. Move your figure using the arrow keys. <br>
 <img src= ".\pictures\3maze.png" width="250" height="250">
 <img src= ".\pictures\4maze.png" width="250" height="250">
-<img src= ".\pictures\6maze.png" width="250" height="250">
+<img src= ".\pictures\6maze.png" width="400" height="250">
 # Nochmal on Torus Surface
 The version of the game "nochmal" is slightly different from the original version. Start in the middle column, where a few positions are already clicked. The colour and the number in the upper field show you, how many coherent positions in the shown colour you have to click. Coherent means, the positions have to touch at least in one edge. However, the game with a torus surface has no borders, so the left and the lirght column touch each other. As well, the upper and lower row touch each other. The size of the largest completely filled square is your number of points. <br>
 <img src= ".\pictures\nochmal.png" width="250" height="250">
