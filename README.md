@@ -5,7 +5,7 @@ The rules are the same as
 the normal minesweeper with a flat surface. There are three levels of difficulty.
 <br>
 <img src= ".\pictures\minesweeper.png" width="250" height="250">
-# Minesweeper on Torus Surface
+# Maze on Torus Surface
 Welcome to Toroidal Maze Game! This is not your ordinary maze – immerse yourself in a unique challenge as you navigate a maze set on a torus surface. Maneuver through the twists and turns of a toroidal labyrinth, avoid obstacles, and triumphantly reach the blue dots. Use the '+' Button to start a new game with increasing difficulty.
 You can reach every position in the maze by moving the yellow figure by the arrow keys. The maze itself is created by an recursive backtracking algorithm. So there is unreachable position. Enjoy the challenge.
 <br>
@@ -15,7 +15,7 @@ Blokus might be an more or less unknown game: However, it is easy to explain but
 Your opponent is a bot finding every available position for itself. So do not underestimate the challenge to win against your opponent.
 <br>
 <img src= ".\pictures\blokus.png" width="250" height="250">
-# Further on Torus Surface
+# Further Maze Games on Torus Surface with different comb shapes
 In the following three versions of mazes puzzles, you can turn each position of the surface. Move your figure using the arrow keys. <br>
 <img src= ".\pictures\3maze.png" width="230" height="250">
 <img src= ".\pictures\4maze.png" width="230" height="250">
